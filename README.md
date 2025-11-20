@@ -105,6 +105,9 @@ A full-scale Car Rental Platform with user, admin, and vendor modules, designed 
 * Multer: Utilized Multer to handle file uploads for vehicles, including images and videos.
 
 * Version Control: Employed Git throughout the project for version control, collaboration, and backup.
+## deployed website 
+* https://rent-a-ride-two.vercel.app/
+ 
 ## Screenshots
 
 //user
